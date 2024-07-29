@@ -27,7 +27,6 @@
         <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\..\core\EdFi.DataManagementService.Core\EdFi.DataManagementService.Core.csproj" />
     <ProjectReference Include="..\..\core\EdFi.DataManagementService.Core.External\EdFi.DataManagementService.Core.External.csproj" />
@@ -35,5 +34,4 @@
     <ProjectReference Include="..\..\backend\EdFi.DataManagementService.Backend.OpenSearch\EdFi.DataManagementService.Backend.OpenSearch.csproj" />
     <ProjectReference Include="..\..\backend\EdFi.DataManagementService.Backend.Postgresql\EdFi.DataManagementService.Backend.Postgresql.csproj" />
   </ItemGroup>
-
 </Project>
