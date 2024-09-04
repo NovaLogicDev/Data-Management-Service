@@ -11,7 +11,7 @@
         "Handler": "EdFi.DataManagementService.Frontend.Lambda",
         "Runtime": "dotnet8",
         "CodeUri": "",
-        "MemorySize": 512,
+        "MemorySize": 4096,
         "Timeout": 30,
         "Role": null,
         "Policies": [
